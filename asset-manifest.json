@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cats4Lyfe/static/css/main.04407225.css",
+    "main.css": "/cats4Lyfe/static/css/main.a8c36478.css",
     "main.js": "/cats4Lyfe/static/js/main.d2bcefa8.js",
     "static/media/Montserrat-Bold.ttf": "/cats4Lyfe/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
     "index.html": "/cats4Lyfe/index.html",
-    "main.04407225.css.map": "/cats4Lyfe/static/css/main.04407225.css.map",
+    "main.a8c36478.css.map": "/cats4Lyfe/static/css/main.a8c36478.css.map",
     "main.d2bcefa8.js.map": "/cats4Lyfe/static/js/main.d2bcefa8.js.map"
   },
   "entrypoints": [
-    "static/css/main.04407225.css",
+    "static/css/main.a8c36478.css",
     "static/js/main.d2bcefa8.js"
   ]
 }
