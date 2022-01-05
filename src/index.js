@@ -1,10 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import {marsRovers as App} from "./controller.js"
+import {App} from "./pages/App"
 
-
-
-// import { BrowserRouter as Router } from "react-router-dom"
 
 ReactDOM.render(
   <React.StrictMode>

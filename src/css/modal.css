@@ -1,0 +1,25 @@
+.customOverlay {
+    background: #000000a6;
+}
+
+@media screen and (max-width: 480px) {
+       .customModal {
+    width: 80%   
+    }
+} 
+
+@media screen and (min-width: 480px) {
+    .customModal {
+        width: 30%; 
+    }
+} 
+
+.customModal {
+    background: #1F1E29 ;
+
+}
+
+li {
+    border: none;
+}
+
